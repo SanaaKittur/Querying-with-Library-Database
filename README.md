@@ -9,3 +9,7 @@
 * Updating the contents of other table to reflect this data manipulation operation.
 * Partitioning the BOOK table based on year of publication.
 * Creating a view of all books and its number of copies that are currently available in the Library.
+### Entity-Relationship Diagram 
+* The ER for library database is available in the MASTER branch of the same repository.
+* This ER shows the relationship between the different Entitites.
+* This also shows all the attributes an Entity has.
